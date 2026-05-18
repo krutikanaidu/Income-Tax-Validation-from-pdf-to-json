@@ -1,0 +1,1548 @@
+{
+    "FormNo.": "FORM 93",
+    "nameOfForm": "Schedule of DEBITS/CREDITS to Adjusting Account",
+    "majorHeadNum": "8658",
+    "dept": "Suspense Accounts",
+    "divisionCode": "P.W. (WEST) DIVISION, SATARA",
+    "month": "01/2026",
+    "pdfUrl": "https://ago-poc15.s3.us-east-1.amazonaws.com/PWD_WEST_SATARA_January_2026/form_93.pdf",
+    "totalRecords": 256,
+    "data": [
+        {
+            "voucher": "2",
+            "nameOfAgency": "Balaji Magasvargiy MSS Ltd Padali Kese",
+            "grossAmt": "1066000",
+            "incomeTax": "18068"
+        },
+        {
+            "voucher": "3",
+            "nameOfAgency": "Azaruddin R Sayyad",
+            "grossAmt": "237500",
+            "incomeTax": "4241"
+        },
+        {
+            "voucher": "4",
+            "nameOfAgency": "Tushar Tanaji Chalke",
+            "grossAmt": "713593",
+            "incomeTax": "12095"
+        },
+        {
+            "voucher": "5",
+            "nameOfAgency": "Aniket Ravindra Salunkhe",
+            "grossAmt": "342790",
+            "incomeTax": "29050"
+        },
+        {
+            "voucher": "6",
+            "nameOfAgency": "Ganesh Baban Bhise",
+            "grossAmt": "946060",
+            "incomeTax": "16035"
+        },
+        {
+            "voucher": "7",
+            "nameOfAgency": "Univatu India Ltd",
+            "grossAmt": "3874000",
+            "incomeTax": "65661"
+        },
+        {
+            "voucher": "8",
+            "nameOfAgency": "Siddharth MSS Ltd,Karandwadi",
+            "grossAmt": "1000000",
+            "incomeTax": "16949"
+        },
+        {
+            "voucher": "9",
+            "nameOfAgency": "K.M.Kanhere,Wai",
+            "grossAmt": "3398150",
+            "incomeTax": "57596"
+        },
+        {
+            "voucher": "16",
+            "nameOfAgency": "Jaydatta Mss ltd, Goshatwadi",
+            "grossAmt": "713000",
+            "incomeTax": "12085"
+        },
+        {
+            "voucher": "19",
+            "nameOfAgency": "Aniket Tanaji Gharal",
+            "grossAmt": "476000",
+            "incomeTax": "8068"
+        },
+        {
+            "voucher": "20",
+            "nameOfAgency": "Dilip Y.Patil",
+            "grossAmt": "475000",
+            "incomeTax": "8051"
+        },
+        {
+            "voucher": "21",
+            "nameOfAgency": "Shriram Mss Ltd Pimpode Bk",
+            "grossAmt": "707162",
+            "incomeTax": "11986"
+        },
+        {
+            "voucher": "22",
+            "nameOfAgency": "R.R.Kale",
+            "grossAmt": "713000",
+            "incomeTax": "12085"
+        },
+        {
+            "voucher": "23",
+            "nameOfAgency": "Saiprasad MSS Ltd,Karve",
+            "grossAmt": "476000",
+            "incomeTax": "8068"
+        },
+        {
+            "voucher": "24",
+            "nameOfAgency": "Pratap Yashwant Kumbhar,Perle",
+            "grossAmt": "1166324",
+            "incomeTax": "19768"
+        },
+        {
+            "voucher": "25",
+            "nameOfAgency": "Shubham Balasaheb Gaikwad",
+            "grossAmt": "1050045",
+            "incomeTax": "17797"
+        },
+        {
+            "voucher": "26",
+            "nameOfAgency": "Vicky Mahesh Aargade",
+            "grossAmt": "475000",
+            "incomeTax": "8051"
+        },
+        {
+            "voucher": "27",
+            "nameOfAgency": "Maharashtra MSS Ltd Karad",
+            "grossAmt": "465760",
+            "incomeTax": "7894"
+        },
+        {
+            "voucher": "28",
+            "nameOfAgency": "Saikrupa Mss Ltd, Hajarmachi",
+            "grossAmt": "570587",
+            "incomeTax": "9671"
+        },
+        {
+            "voucher": "29",
+            "nameOfAgency": "Pratik Ashok Jadhav",
+            "grossAmt": "1015500",
+            "incomeTax": "17212"
+        },
+        {
+            "voucher": "30",
+            "nameOfAgency": "Piyush Sanjayrao More",
+            "grossAmt": "380000",
+            "incomeTax": "6441"
+        },
+        {
+            "voucher": "31",
+            "nameOfAgency": "V.J.Yadav",
+            "grossAmt": "475000",
+            "incomeTax": "8051"
+        },
+        {
+            "voucher": "32",
+            "nameOfAgency": "Ekvira Mss Ltd,Pisalwadi",
+            "grossAmt": "219693",
+            "incomeTax": "3724"
+        },
+        {
+            "voucher": "33",
+            "nameOfAgency": "Dadaso Shankarrao Patil, Vihe",
+            "grossAmt": "327449",
+            "incomeTax": "5550"
+        },
+        {
+            "voucher": "34",
+            "nameOfAgency": "Dadaso Shankarrao Patil, Vihe",
+            "grossAmt": "380952",
+            "incomeTax": "6457"
+        },
+        {
+            "voucher": "35",
+            "nameOfAgency": "T & T Infra Pvt Ltd Pune",
+            "grossAmt": "127600499",
+            "incomeTax": "2162720"
+        },
+        {
+            "voucher": "36",
+            "nameOfAgency": "Vijaysinh Suvarnasing Patil",
+            "grossAmt": "993361",
+            "incomeTax": "16837"
+        },
+        {
+            "voucher": "37",
+            "nameOfAgency": "Amol Shrirang Patil",
+            "grossAmt": "726000",
+            "incomeTax": "12305"
+        },
+        {
+            "voucher": "38",
+            "nameOfAgency": "Harshvardhan Vishwasrao Thorat",
+            "grossAmt": "380500",
+            "incomeTax": "6449"
+        },
+        {
+            "voucher": "39",
+            "nameOfAgency": "Amit Enterprises karad",
+            "grossAmt": "1892649",
+            "incomeTax": "32079"
+        },
+        {
+            "voucher": "41",
+            "nameOfAgency": "Hanuman Ganesh Mss Ltd,Helwak",
+            "grossAmt": "698062",
+            "incomeTax": "11832"
+        },
+        {
+            "voucher": "42",
+            "nameOfAgency": "Siddharath Hanuman Kulkarni",
+            "grossAmt": "476000",
+            "incomeTax": "8068"
+        },
+        {
+            "voucher": "43",
+            "nameOfAgency": "K.M.Kanhere,Wai",
+            "grossAmt": "5439795",
+            "incomeTax": "92199"
+        },
+        {
+            "voucher": "44",
+            "nameOfAgency": "Shivratan Mss Ltd, Wathar",
+            "grossAmt": "285485",
+            "incomeTax": "4839"
+        },
+        {
+            "voucher": "45",
+            "nameOfAgency": "Aditya Ashok Pol",
+            "grossAmt": "476000",
+            "incomeTax": "8068"
+        },
+        {
+            "voucher": "46",
+            "nameOfAgency": "Mangalshyam Construction Wai",
+            "grossAmt": "5224857",
+            "incomeTax": "88557"
+        },
+        {
+            "voucher": "47",
+            "nameOfAgency": "Vijayraje Madhukar Desai",
+            "grossAmt": "714280",
+            "incomeTax": "12106"
+        },
+        {
+            "voucher": "48",
+            "nameOfAgency": "Vijayraje Madhukar Desai",
+            "grossAmt": "400000",
+            "incomeTax": "6780"
+        },
+        {
+            "voucher": "49",
+            "nameOfAgency": "Vijayraje Madhukar Desai",
+            "grossAmt": "714280",
+            "incomeTax": "12106"
+        },
+        {
+            "voucher": "50",
+            "nameOfAgency": "Ambamata MSS Ltd, Masur",
+            "grossAmt": "476190",
+            "incomeTax": "8071"
+        },
+        {
+            "voucher": "51",
+            "nameOfAgency": "R.V.More",
+            "grossAmt": "290109",
+            "incomeTax": "4917"
+        },
+        {
+            "voucher": "52",
+            "nameOfAgency": "R.V.More",
+            "grossAmt": "334160",
+            "incomeTax": "5664"
+        },
+        {
+            "voucher": "53",
+            "nameOfAgency": "Shriram MSS Ltd Bhilar",
+            "grossAmt": "476000",
+            "incomeTax": "8068"
+        },
+        {
+            "voucher": "54",
+            "nameOfAgency": "Shriram MSS Ltd Bhilar",
+            "grossAmt": "238000",
+            "incomeTax": "4034"
+        },
+        {
+            "voucher": "55",
+            "nameOfAgency": "Saiprasad MSS Ltd,Karve",
+            "grossAmt": "476000",
+            "incomeTax": "8068"
+        },
+        {
+            "voucher": "56",
+            "nameOfAgency": "Saiprasad MSS Ltd,Karve",
+            "grossAmt": "238000",
+            "incomeTax": "4034"
+        },
+        {
+            "voucher": "57",
+            "nameOfAgency": "Shriram MSS Ltd Bhilar",
+            "grossAmt": "476000",
+            "incomeTax": "8068"
+        },
+        {
+            "voucher": "58",
+            "nameOfAgency": "Shriram MSS Ltd Bhilar",
+            "grossAmt": "476000",
+            "incomeTax": "8068"
+        },
+        {
+            "voucher": "59",
+            "nameOfAgency": "Shriram MSS Ltd Bhilar",
+            "grossAmt": "380500",
+            "incomeTax": "6449"
+        },
+        {
+            "voucher": "60",
+            "nameOfAgency": "Balaji Magasvargiy MSS Ltd Padali Kese",
+            "grossAmt": "258427",
+            "incomeTax": "4380"
+        },
+        {
+            "voucher": "61",
+            "nameOfAgency": "Balaji Magasvargiy MSS Ltd Padali Kese",
+            "grossAmt": "112614",
+            "incomeTax": "1909"
+        },
+        {
+            "voucher": "63",
+            "nameOfAgency": "Sanjay Vasantrao Mandhare",
+            "grossAmt": "605000",
+            "incomeTax": "10254"
+        },
+        {
+            "voucher": "64",
+            "nameOfAgency": "Ajitkumar Madan Shinde",
+            "grossAmt": "593757",
+            "incomeTax": "10064"
+        },
+        {
+            "voucher": "65",
+            "nameOfAgency": "Balaji Mss Ltd, Karad",
+            "grossAmt": "380000",
+            "incomeTax": "6441"
+        },
+        {
+            "voucher": "66",
+            "nameOfAgency": "Amol Nathuram Yadav",
+            "grossAmt": "132554",
+            "incomeTax": "2247"
+        },
+        {
+            "voucher": "67",
+            "nameOfAgency": "Amit Vijay Gavhane",
+            "grossAmt": "607000",
+            "incomeTax": "10288"
+        },
+        {
+            "voucher": "68",
+            "nameOfAgency": "Sudhir Naykwadi",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "69",
+            "nameOfAgency": "Rohan Sandip Kolekar",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "70",
+            "nameOfAgency": "Utkarsh Mss Ltd,Angapurvandan",
+            "grossAmt": "1179000",
+            "incomeTax": "19983"
+        },
+        {
+            "voucher": "71",
+            "nameOfAgency": "Sanrachana Structural Strengthening Pvt Ltd",
+            "grossAmt": "2000000",
+            "incomeTax": "33898"
+        },
+        {
+            "voucher": "72",
+            "nameOfAgency": "Amar Mss Ltd, Satara",
+            "grossAmt": "600000",
+            "incomeTax": "10170"
+        },
+        {
+            "voucher": "73",
+            "nameOfAgency": "T.V.Joshi,Satara",
+            "grossAmt": "1832000",
+            "incomeTax": "31051"
+        },
+        {
+            "voucher": "74",
+            "nameOfAgency": "Atul Shashikant Ghule",
+            "grossAmt": "999213",
+            "incomeTax": "16936"
+        },
+        {
+            "voucher": "75",
+            "nameOfAgency": "Ganesh M.Bhosale,Bavdhan",
+            "grossAmt": "1400000",
+            "incomeTax": "23729"
+        },
+        {
+            "voucher": "76",
+            "nameOfAgency": "Umarani Constructions, Satara",
+            "grossAmt": "2528205",
+            "incomeTax": "42851"
+        },
+        {
+            "voucher": "77",
+            "nameOfAgency": "Umarani Constructions, Satara",
+            "grossAmt": "471795",
+            "incomeTax": "7997"
+        },
+        {
+            "voucher": "78",
+            "nameOfAgency": "Shankar Parsuram More",
+            "grossAmt": "482121",
+            "incomeTax": "8172"
+        },
+        {
+            "voucher": "79",
+            "nameOfAgency": "Shankar Parsuram More",
+            "grossAmt": "233914",
+            "incomeTax": "3965"
+        },
+        {
+            "voucher": "80",
+            "nameOfAgency": "Shankar Parsuram More",
+            "grossAmt": "137618",
+            "incomeTax": "2333"
+        },
+        {
+            "voucher": "81",
+            "nameOfAgency": "Shankar Parsuram More",
+            "grossAmt": "130000",
+            "incomeTax": "2203"
+        },
+        {
+            "voucher": "82",
+            "nameOfAgency": "Irfan Shakil Mulla",
+            "grossAmt": "441608",
+            "incomeTax": "7485"
+        },
+        {
+            "voucher": "83",
+            "nameOfAgency": "Swapnil Sanjay Bhilare",
+            "grossAmt": "688000",
+            "incomeTax": "11661"
+        },
+        {
+            "voucher": "84",
+            "nameOfAgency": "Rahul M.Waydande",
+            "grossAmt": "1073000",
+            "incomeTax": "18186"
+        },
+        {
+            "voucher": "85",
+            "nameOfAgency": "Amarsingh R.Chavan",
+            "grossAmt": "475000",
+            "incomeTax": "8051"
+        },
+        {
+            "voucher": "86",
+            "nameOfAgency": "Sanjeev Babanrao Jadhav",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "87",
+            "nameOfAgency": "The Raikon Contructions, Pune",
+            "grossAmt": "1700000",
+            "incomeTax": "28814"
+        },
+        {
+            "voucher": "88",
+            "nameOfAgency": "Ganesh Const.,Kapasa",
+            "grossAmt": "1700000",
+            "incomeTax": "28814"
+        },
+        {
+            "voucher": "89",
+            "nameOfAgency": "Sameer U Mulla",
+            "grossAmt": "247000",
+            "incomeTax": "4186"
+        },
+        {
+            "voucher": "90",
+            "nameOfAgency": "Maharashtra MSS Ltd Karad",
+            "grossAmt": "476190",
+            "incomeTax": "8071"
+        },
+        {
+            "voucher": "91",
+            "nameOfAgency": "Sanjay Yashwant Pawar",
+            "grossAmt": "480000",
+            "incomeTax": "8136"
+        },
+        {
+            "voucher": "92",
+            "nameOfAgency": "Balaji Magasvargiy MSS Ltd Padali Kese",
+            "grossAmt": "165891",
+            "incomeTax": "2812"
+        },
+        {
+            "voucher": "93",
+            "nameOfAgency": "A.H.Chavan,Perle",
+            "grossAmt": "345000",
+            "incomeTax": "5847"
+        },
+        {
+            "voucher": "94",
+            "nameOfAgency": "Saish MSS Ltd, Satara",
+            "grossAmt": "274185",
+            "incomeTax": "4647"
+        },
+        {
+            "voucher": "95",
+            "nameOfAgency": "Amar Mss Ltd, Satara",
+            "grossAmt": "350761",
+            "incomeTax": "5945"
+        },
+        {
+            "voucher": "96",
+            "nameOfAgency": "Utkarsh Mss Ltd,Angapurvandan",
+            "grossAmt": "608000",
+            "incomeTax": "10305"
+        },
+        {
+            "voucher": "97",
+            "nameOfAgency": "Abhijeet Mahadev Maskar",
+            "grossAmt": "611000",
+            "incomeTax": "10356"
+        },
+        {
+            "voucher": "98",
+            "nameOfAgency": "Sanjay Vasantrao Mandhare",
+            "grossAmt": "204796",
+            "incomeTax": "3471"
+        },
+        {
+            "voucher": "99",
+            "nameOfAgency": "Balaji Magasvargiy MSS Ltd Padali Kese",
+            "grossAmt": "65715",
+            "incomeTax": "1114"
+        },
+        {
+            "voucher": "100",
+            "nameOfAgency": "S.U.Patil,Islampur",
+            "grossAmt": "717000",
+            "incomeTax": "12153"
+        },
+        {
+            "voucher": "101",
+            "nameOfAgency": "Akshay Sunil Gaikwad",
+            "grossAmt": "431186",
+            "incomeTax": "7308"
+        },
+        {
+            "voucher": "102",
+            "nameOfAgency": "S.U.Patil,Islampur",
+            "grossAmt": "79470",
+            "incomeTax": "1347"
+        },
+        {
+            "voucher": "103",
+            "nameOfAgency": "S.U.Patil,Islampur",
+            "grossAmt": "300779",
+            "incomeTax": "5098"
+        },
+        {
+            "voucher": "104",
+            "nameOfAgency": "Ajinkya Arun Jadhav",
+            "grossAmt": "124425",
+            "incomeTax": "2109"
+        },
+        {
+            "voucher": "105",
+            "nameOfAgency": "Ajinkya Arun Jadhav",
+            "grossAmt": "421000",
+            "incomeTax": "7136"
+        },
+        {
+            "voucher": "106",
+            "nameOfAgency": "Amit Vijay Gavhane",
+            "grossAmt": "589000",
+            "incomeTax": "9983"
+        },
+        {
+            "voucher": "107",
+            "nameOfAgency": "Rohan Sandip Kolekar",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "108",
+            "nameOfAgency": "R.D.Shirke",
+            "grossAmt": "1072000",
+            "incomeTax": "18170"
+        },
+        {
+            "voucher": "109",
+            "nameOfAgency": "Ruturaj Narayan Patil",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "110",
+            "nameOfAgency": "Balaji Magasvargiy MSS Ltd Padali Kese",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "111",
+            "nameOfAgency": "Ganesh MSS Ltd Kusur",
+            "grossAmt": "331435",
+            "incomeTax": "5618"
+        },
+        {
+            "voucher": "112",
+            "nameOfAgency": "Rushikesh B. Deshmukh",
+            "grossAmt": "379732",
+            "incomeTax": "6436"
+        },
+        {
+            "voucher": "113",
+            "nameOfAgency": "Kiran P.Dashvant",
+            "grossAmt": "1420000",
+            "incomeTax": "24068"
+        },
+        {
+            "voucher": "114",
+            "nameOfAgency": "KKC Construction , Satara",
+            "grossAmt": "4341736",
+            "incomeTax": "73589"
+        },
+        {
+            "voucher": "115",
+            "nameOfAgency": "Jaybhavani MSS Ltd,Satara",
+            "grossAmt": "194308",
+            "incomeTax": "3293"
+        },
+        {
+            "voucher": "116",
+            "nameOfAgency": "Suraj Gangaram Pawar",
+            "grossAmt": "951000",
+            "incomeTax": "16119"
+        },
+        {
+            "voucher": "117",
+            "nameOfAgency": "Gaurav Arun Shinde",
+            "grossAmt": "701582",
+            "incomeTax": "11891"
+        },
+        {
+            "voucher": "118",
+            "nameOfAgency": "Pritisangam Mss Ltd, Karad",
+            "grossAmt": "285714",
+            "incomeTax": "4843"
+        },
+        {
+            "voucher": "119",
+            "nameOfAgency": "Kiran P.Dashvant",
+            "grossAmt": "977342",
+            "incomeTax": "16565"
+        },
+        {
+            "voucher": "120",
+            "nameOfAgency": "Akshay Sunil Gaikwad",
+            "grossAmt": "19000",
+            "incomeTax": "322"
+        },
+        {
+            "voucher": "121",
+            "nameOfAgency": "Tushar Tanaji Chalke",
+            "grossAmt": "324830",
+            "incomeTax": "5506"
+        },
+        {
+            "voucher": "122",
+            "nameOfAgency": "Yogeshwar Mss Ltd Satara",
+            "grossAmt": "984499",
+            "incomeTax": "16686"
+        },
+        {
+            "voucher": "123",
+            "nameOfAgency": "Utkarsh Mss Ltd,Angapurvandan",
+            "grossAmt": "988534",
+            "incomeTax": "16755"
+        },
+        {
+            "voucher": "124",
+            "nameOfAgency": "Tushar Tanaji Chalke",
+            "grossAmt": "125000",
+            "incomeTax": "2119"
+        },
+        {
+            "voucher": "125",
+            "nameOfAgency": "Tushar Tanaji Chalke",
+            "grossAmt": "154917",
+            "incomeTax": "2626"
+        },
+        {
+            "voucher": "126",
+            "nameOfAgency": "A.R.Mohite Const., Patan",
+            "grossAmt": "2044000",
+            "incomeTax": "34644"
+        },
+        {
+            "voucher": "127",
+            "nameOfAgency": "Siddhanath Mss Ltd, Satara",
+            "grossAmt": "991781",
+            "incomeTax": "16810"
+        },
+        {
+            "voucher": "128",
+            "nameOfAgency": "Siddhanath Mss Ltd, Satara",
+            "grossAmt": "999567",
+            "incomeTax": "16942"
+        },
+        {
+            "voucher": "129",
+            "nameOfAgency": "Yogeshwar Mss Ltd Satara",
+            "grossAmt": "995000",
+            "incomeTax": "16864"
+        },
+        {
+            "voucher": "130",
+            "nameOfAgency": "Chetna Const., Satara",
+            "grossAmt": "1179000",
+            "incomeTax": "19983"
+        },
+        {
+            "voucher": "131",
+            "nameOfAgency": "Shamrao Dagadu Kale",
+            "grossAmt": "999988",
+            "incomeTax": "16949"
+        },
+        {
+            "voucher": "132",
+            "nameOfAgency": "Amit Vijay Gavhane",
+            "grossAmt": "503000",
+            "incomeTax": "8525"
+        },
+        {
+            "voucher": "133",
+            "nameOfAgency": "Siddharth MSS Ltd,Karandwadi",
+            "grossAmt": "58160",
+            "incomeTax": "986"
+        },
+        {
+            "voucher": "134",
+            "nameOfAgency": "Mahesh Patil and Co.",
+            "grossAmt": "625000",
+            "incomeTax": "10593"
+        },
+        {
+            "voucher": "135",
+            "nameOfAgency": "Abhijeet Madan Nanaware",
+            "grossAmt": "859000",
+            "incomeTax": "14559"
+        },
+        {
+            "voucher": "136",
+            "nameOfAgency": "R.C.Umbarkar",
+            "grossAmt": "822000",
+            "incomeTax": "13932"
+        },
+        {
+            "voucher": "137",
+            "nameOfAgency": "Dattamala Mss Ltd, Satara",
+            "grossAmt": "333768",
+            "incomeTax": "5657"
+        },
+        {
+            "voucher": "138",
+            "nameOfAgency": "Dattamala Mss Ltd, Satara",
+            "grossAmt": "620262",
+            "incomeTax": "10513"
+        },
+        {
+            "voucher": "139",
+            "nameOfAgency": "Vithai Mauli Mss Ltd, Koynanagar",
+            "grossAmt": "266861",
+            "incomeTax": "4523"
+        },
+        {
+            "voucher": "140",
+            "nameOfAgency": "Pratap Yashwant Kumbhar, Perle",
+            "grossAmt": "1755000",
+            "incomeTax": "29746"
+        },
+        {
+            "voucher": "141",
+            "nameOfAgency": "Mohsin Shabbir Bhaldar",
+            "grossAmt": "1238090",
+            "incomeTax": "20985"
+        },
+        {
+            "voucher": "142",
+            "nameOfAgency": "Nikhil Avinash Dhere",
+            "grossAmt": "475000",
+            "incomeTax": "8051"
+        },
+        {
+            "voucher": "143",
+            "nameOfAgency": "Suraj Mahadev Bhanage",
+            "grossAmt": "475000",
+            "incomeTax": "8051"
+        },
+        {
+            "voucher": "144",
+            "nameOfAgency": "Nandkumar Construction Satara",
+            "grossAmt": "519000",
+            "incomeTax": "8797"
+        },
+        {
+            "voucher": "145",
+            "nameOfAgency": "R.C.Umbarkar",
+            "grossAmt": "458659",
+            "incomeTax": "7774"
+        },
+        {
+            "voucher": "146",
+            "nameOfAgency": "Yogeshwar Mss Ltd, Satara",
+            "grossAmt": "990000",
+            "incomeTax": "16780"
+        },
+        {
+            "voucher": "147",
+            "nameOfAgency": "Avinash Ramchandra Hol",
+            "grossAmt": "866125",
+            "incomeTax": "14680"
+        },
+        {
+            "voucher": "148",
+            "nameOfAgency": "Avinash Ramchandra Hol",
+            "grossAmt": "757255",
+            "incomeTax": "12835"
+        },
+        {
+            "voucher": "149",
+            "nameOfAgency": "Avinash Ramchandra Hol",
+            "grossAmt": "373389",
+            "incomeTax": "6329"
+        },
+        {
+            "voucher": "150",
+            "nameOfAgency": "Sohan V.Dudhal",
+            "grossAmt": "505257",
+            "incomeTax": "8564"
+        },
+        {
+            "voucher": "151",
+            "nameOfAgency": "Shravani Mss Ltd,Ashte",
+            "grossAmt": "1017557",
+            "incomeTax": "17247"
+        },
+        {
+            "voucher": "152",
+            "nameOfAgency": "Rajvardhan Udaysinh Chavan",
+            "grossAmt": "2369669",
+            "incomeTax": "40164"
+        },
+        {
+            "voucher": "153",
+            "nameOfAgency": "Dilip Y.Patil",
+            "grossAmt": "844519",
+            "incomeTax": "14314"
+        },
+        {
+            "voucher": "154",
+            "nameOfAgency": "Ashoka MSS Ltd, Uchat Mahabaleshwar",
+            "grossAmt": "950000",
+            "incomeTax": "16102"
+        },
+        {
+            "voucher": "155",
+            "nameOfAgency": "Meruling MSS Ltd, Narafdeo",
+            "grossAmt": "956366",
+            "incomeTax": "16210"
+        },
+        {
+            "voucher": "156",
+            "nameOfAgency": "Balbhim MSS Ltd Madhwapurwadi",
+            "grossAmt": "2496922",
+            "incomeTax": "42321"
+        },
+        {
+            "voucher": "157",
+            "nameOfAgency": "Snehal Amar More",
+            "grossAmt": "1069777",
+            "incomeTax": "18132"
+        },
+        {
+            "voucher": "158",
+            "nameOfAgency": "Vithai Mauli Mss Ltd, Koynanagar",
+            "grossAmt": "787480",
+            "incomeTax": "13347"
+        },
+        {
+            "voucher": "159",
+            "nameOfAgency": "Kiran P.Dashvant",
+            "grossAmt": "626000",
+            "incomeTax": "10610"
+        },
+        {
+            "voucher": "160",
+            "nameOfAgency": "Kiran P.Dashvant",
+            "grossAmt": "574127",
+            "incomeTax": "9731"
+        },
+        {
+            "voucher": "161",
+            "nameOfAgency": "Rajendra Shivaji Kale",
+            "grossAmt": "310000",
+            "incomeTax": "5254"
+        },
+        {
+            "voucher": "162",
+            "nameOfAgency": "Rohit Dattatray Mandhare",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "163",
+            "nameOfAgency": "Siddharth MSS Ltd,Karandwadi",
+            "grossAmt": "122668",
+            "incomeTax": "2079"
+        },
+        {
+            "voucher": "164",
+            "nameOfAgency": "H.D.Ghorpade",
+            "grossAmt": "264469",
+            "incomeTax": "4483"
+        },
+        {
+            "voucher": "165",
+            "nameOfAgency": "V.D.Chavan",
+            "grossAmt": "258000",
+            "incomeTax": "4373"
+        },
+        {
+            "voucher": "166",
+            "nameOfAgency": "Ratnaprabha Const.,Asale",
+            "grossAmt": "3114696",
+            "incomeTax": "52791"
+        },
+        {
+            "voucher": "167",
+            "nameOfAgency": "Shivtej Ravindra Shinde",
+            "grossAmt": "2242548",
+            "incomeTax": "38009"
+        },
+        {
+            "voucher": "168",
+            "nameOfAgency": "Sohan V.Dudhal",
+            "grossAmt": "162873",
+            "incomeTax": "2761"
+        },
+        {
+            "voucher": "169",
+            "nameOfAgency": "V.D.Chavan",
+            "grossAmt": "402002",
+            "incomeTax": "6814"
+        },
+        {
+            "voucher": "170",
+            "nameOfAgency": "Shivtej Ravindra Shinde",
+            "grossAmt": "468930",
+            "incomeTax": "7948"
+        },
+        {
+            "voucher": "171",
+            "nameOfAgency": "V.D.Chavan",
+            "grossAmt": "171521",
+            "incomeTax": "2907"
+        },
+        {
+            "voucher": "172",
+            "nameOfAgency": "V.D.Chavan",
+            "grossAmt": "1672084",
+            "incomeTax": "28340"
+        },
+        {
+            "voucher": "173",
+            "nameOfAgency": "V.D.Chavan",
+            "grossAmt": "1933000",
+            "incomeTax": "32763"
+        },
+        {
+            "voucher": "174",
+            "nameOfAgency": "Shravani Mss Ltd,Ashte",
+            "grossAmt": "106388",
+            "incomeTax": "1803"
+        },
+        {
+            "voucher": "175",
+            "nameOfAgency": "V.D.Chavan",
+            "grossAmt": "376000",
+            "incomeTax": "6373"
+        },
+        {
+            "voucher": "176",
+            "nameOfAgency": "Shivtej Ravindra Shinde",
+            "grossAmt": "883687",
+            "incomeTax": "14978"
+        },
+        {
+            "voucher": "177",
+            "nameOfAgency": "Krishna MSS Ltd,Gove",
+            "grossAmt": "757197",
+            "incomeTax": "12834"
+        },
+        {
+            "voucher": "178",
+            "nameOfAgency": "S.U.Patil,Islampur",
+            "grossAmt": "64066",
+            "incomeTax": "1086"
+        },
+        {
+            "voucher": "179",
+            "nameOfAgency": "Datta Digamber MSS Ltd Badewadi",
+            "grossAmt": "371410",
+            "incomeTax": "6265"
+        },
+        {
+            "voucher": "180",
+            "nameOfAgency": "Sumitraraje MSS Ltd,Dhangarwadi",
+            "grossAmt": "403065",
+            "incomeTax": "6832"
+        },
+        {
+            "voucher": "181",
+            "nameOfAgency": "Ashoka MSS Ltd, Uchat Mahabaleshwar",
+            "grossAmt": "406534",
+            "incomeTax": "6890"
+        },
+        {
+            "voucher": "182",
+            "nameOfAgency": "Rohan Dhanaji Pawar",
+            "grossAmt": "381000",
+            "incomeTax": "6458"
+        },
+        {
+            "voucher": "183",
+            "nameOfAgency": "Sohan V.Dudhal",
+            "grossAmt": "568000",
+            "incomeTax": "9627"
+        },
+        {
+            "voucher": "184",
+            "nameOfAgency": "Ganesh MSS Ltd Kusur",
+            "grossAmt": "500000",
+            "incomeTax": "8475"
+        },
+        {
+            "voucher": "185",
+            "nameOfAgency": "Nikhil Bhiku Shingate",
+            "grossAmt": "695156",
+            "incomeTax": "11782"
+        },
+        {
+            "voucher": "186",
+            "nameOfAgency": "Datta Digamber MSS Ltd Badewadi",
+            "grossAmt": "129000",
+            "incomeTax": "2186"
+        },
+        {
+            "voucher": "187",
+            "nameOfAgency": "Ashoka MSS Ltd, Uchat Mahabaleshwar",
+            "grossAmt": "220207",
+            "incomeTax": "3732"
+        },
+        {
+            "voucher": "188",
+            "nameOfAgency": "Janaimalai MSS Ltd,Pateshwarnagar",
+            "grossAmt": "426000",
+            "incomeTax": "7220"
+        },
+        {
+            "voucher": "189",
+            "nameOfAgency": "Jaydatta Mss Itd, Goshatwadi",
+            "grossAmt": "400000",
+            "incomeTax": "6780"
+        },
+        {
+            "voucher": "190",
+            "nameOfAgency": "Vithai Mauli Mss Ltd, Koynanagar",
+            "grossAmt": "136609",
+            "incomeTax": "2315"
+        },
+        {
+            "voucher": "191",
+            "nameOfAgency": "Rajvardhan Udaysinh Chavan",
+            "grossAmt": "229204",
+            "incomeTax": "3885"
+        },
+        {
+            "voucher": "192",
+            "nameOfAgency": "Jaydatta Mss ltd, Goshatwadi",
+            "grossAmt": "29405",
+            "incomeTax": "498"
+        },
+        {
+            "voucher": "193",
+            "nameOfAgency": "Dilip Y.Patil",
+            "grossAmt": "565260",
+            "incomeTax": "9581"
+        },
+        {
+            "voucher": "194",
+            "nameOfAgency": "Dilip Y.Patil",
+            "grossAmt": "195082",
+            "incomeTax": "3306"
+        },
+        {
+            "voucher": "195",
+            "nameOfAgency": "Snehal Amar More",
+            "grossAmt": "246000",
+            "incomeTax": "4170"
+        },
+        {
+            "voucher": "196",
+            "nameOfAgency": "Amol Shrirang Patil",
+            "grossAmt": "166083",
+            "incomeTax": "2815"
+        },
+        {
+            "voucher": "197",
+            "nameOfAgency": "Janaimalai MSS Ltd,Pateshwarnagar",
+            "grossAmt": "474000",
+            "incomeTax": "8034"
+        },
+        {
+            "voucher": "198",
+            "nameOfAgency": "Amit Vijay Gavhane",
+            "grossAmt": "113686",
+            "incomeTax": "1927"
+        },
+        {
+            "voucher": "199",
+            "nameOfAgency": "R.C.Umbarkar",
+            "grossAmt": "500000",
+            "incomeTax": "8475"
+        },
+        {
+            "voucher": "200",
+            "nameOfAgency": "Vardhanimata MSS Ltd,Chinchni",
+            "grossAmt": "341000",
+            "incomeTax": "5780"
+        },
+        {
+            "voucher": "201",
+            "nameOfAgency": "Sanjay Mss Ltd, Satara",
+            "grossAmt": "382304",
+            "incomeTax": "6480"
+        },
+        {
+            "voucher": "202",
+            "nameOfAgency": "Siddhanath Mss Ltd, Satara",
+            "grossAmt": "62644",
+            "incomeTax": "1061"
+        },
+        {
+            "voucher": "203",
+            "nameOfAgency": "Durvankur MSS Ltd, Vangal",
+            "grossAmt": "899313",
+            "incomeTax": "15243"
+        },
+        {
+            "voucher": "204",
+            "nameOfAgency": "Balbhim MSS Ltd Madhwapurwadi",
+            "grossAmt": "969253",
+            "incomeTax": "16428"
+        },
+        {
+            "voucher": "205",
+            "nameOfAgency": "Janai Malai MSS Ltd Kodoli",
+            "grossAmt": "207980",
+            "incomeTax": "3525"
+        },
+        {
+            "voucher": "206",
+            "nameOfAgency": "Adwait Milind Jadhav- Patil",
+            "grossAmt": "495598",
+            "incomeTax": "8400"
+        },
+        {
+            "voucher": "207",
+            "nameOfAgency": "Matoshri Mss Ltd, Bhuinj",
+            "grossAmt": "58625",
+            "incomeTax": "994"
+        },
+        {
+            "voucher": "208",
+            "nameOfAgency": "Amit Vijay Gavhane",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "209",
+            "nameOfAgency": "Vaibhav Vilas Pawar",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "210",
+            "nameOfAgency": "Annasaheb Tanaji Pawar",
+            "grossAmt": "500000",
+            "incomeTax": "8475"
+        },
+        {
+            "voucher": "211",
+            "nameOfAgency": "Balbhim MSS Ltd ,Madhwapurwadi",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "212",
+            "nameOfAgency": "Navnath Arjun Walekar",
+            "grossAmt": "1504000",
+            "incomeTax": "25492"
+        },
+        {
+            "voucher": "213",
+            "nameOfAgency": "S.L.Patil,Goware",
+            "grossAmt": "260000",
+            "incomeTax": "4407"
+        },
+        {
+            "voucher": "214",
+            "nameOfAgency": "Pranav Bhimrao Dubal.",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "215",
+            "nameOfAgency": "Kalyani Mss Ltd, Satara",
+            "grossAmt": "58410",
+            "incomeTax": "990"
+        },
+        {
+            "voucher": "216",
+            "nameOfAgency": "Mangalshyam Construction Wai",
+            "grossAmt": "570000",
+            "incomeTax": "9661"
+        },
+        {
+            "voucher": "217",
+            "nameOfAgency": "Ganesh Bharat Gupta",
+            "grossAmt": "243000",
+            "incomeTax": "4860"
+        },
+        {
+            "voucher": "218",
+            "nameOfAgency": "Adarsh MSS Ltd Karad",
+            "grossAmt": "77622",
+            "incomeTax": "1316"
+        },
+        {
+            "voucher": "219",
+            "nameOfAgency": "Maharashtra MSS Ltd Karad",
+            "grossAmt": "41010",
+            "incomeTax": "695"
+        },
+        {
+            "voucher": "220",
+            "nameOfAgency": "V.T.Shelar",
+            "grossAmt": "713809",
+            "incomeTax": "12098"
+        },
+        {
+            "voucher": "221",
+            "nameOfAgency": "Rohit Dadaso Pawar",
+            "grossAmt": "475000",
+            "incomeTax": "8051"
+        },
+        {
+            "voucher": "222",
+            "nameOfAgency": "Aniket Abasaheb Pawar",
+            "grossAmt": "475000",
+            "incomeTax": "8051"
+        },
+        {
+            "voucher": "223",
+            "nameOfAgency": "Aishwarya Sunil Shinde",
+            "grossAmt": "913676",
+            "incomeTax": "15486"
+        },
+        {
+            "voucher": "225",
+            "nameOfAgency": "Vijaysinh Suvarnasing Patil",
+            "grossAmt": "489872",
+            "incomeTax": "8303"
+        },
+        {
+            "voucher": "229",
+            "nameOfAgency": "S.B.Dhage",
+            "grossAmt": "1497914",
+            "incomeTax": "25388"
+        },
+        {
+            "voucher": "230",
+            "nameOfAgency": "Ganesh M.Bhosale,Bavdhan",
+            "grossAmt": "626000",
+            "incomeTax": "10610"
+        },
+        {
+            "voucher": "231",
+            "nameOfAgency": "Ganesh M.Bhosale,Bavdhan",
+            "grossAmt": "200000",
+            "incomeTax": "3390"
+        },
+        {
+            "voucher": "232",
+            "nameOfAgency": "Sherai MSS Ltd Shere",
+            "grossAmt": "1878504",
+            "incomeTax": "31839"
+        },
+        {
+            "voucher": "233",
+            "nameOfAgency": ".D.Chavan Shere",
+            "grossAmt": "370732",
+            "incomeTax": "6284"
+        },
+        {
+            "voucher": "234",
+            "nameOfAgency": "I.D.Chavan Shere",
+            "grossAmt": "906740",
+            "incomeTax": "15368"
+        },
+        {
+            "voucher": "235",
+            "nameOfAgency": "Sherai MSS Ltd Shere",
+            "grossAmt": "782285",
+            "incomeTax": "13259"
+        },
+        {
+            "voucher": "236",
+            "nameOfAgency": "Sherai MSS Ltd Shere",
+            "grossAmt": "416474",
+            "incomeTax": "7059"
+        },
+        {
+            "voucher": "237",
+            "nameOfAgency": "Kiran Raghunath Bhosekar",
+            "grossAmt": "451962",
+            "incomeTax": "7660"
+        },
+        {
+            "voucher": "238",
+            "nameOfAgency": "Ganesh M.Bhosale,Bavdhan",
+            "grossAmt": "724506",
+            "incomeTax": "12280"
+        },
+        {
+            "voucher": "239",
+            "nameOfAgency": "Mangalshyam Construction Wai",
+            "grossAmt": "347216",
+            "incomeTax": "5885"
+        },
+        {
+            "voucher": "240",
+            "nameOfAgency": "Mangalshyam Construction Wai",
+            "grossAmt": "264116",
+            "incomeTax": "4477"
+        },
+        {
+            "voucher": "241",
+            "nameOfAgency": "Sumitraraje MSS Ltd,Dhangarwadi",
+            "grossAmt": "932000",
+            "incomeTax": "15797"
+        },
+        {
+            "voucher": "242",
+            "nameOfAgency": "Sumitraraje MSS Ltd,Dhangarwadi",
+            "grossAmt": "900000",
+            "incomeTax": "15254"
+        },
+        {
+            "voucher": "243",
+            "nameOfAgency": "Ganesh M.Bhosale,Bavdhan",
+            "grossAmt": "3973000",
+            "incomeTax": "67339"
+        },
+        {
+            "voucher": "244",
+            "nameOfAgency": "K.M.Kanhere,Wai",
+            "grossAmt": "453000",
+            "incomeTax": "7678"
+        },
+        {
+            "voucher": "245",
+            "nameOfAgency": "K.M.Kanhere,Wai",
+            "grossAmt": "36576",
+            "incomeTax": "620"
+        },
+        {
+            "voucher": "246",
+            "nameOfAgency": "S.L.Patil,Goware",
+            "grossAmt": "625000",
+            "incomeTax": "10593"
+        },
+        {
+            "voucher": "247",
+            "nameOfAgency": "Jitendra Singh,Karad",
+            "grossAmt": "392000",
+            "incomeTax": "6644"
+        },
+        {
+            "voucher": "248",
+            "nameOfAgency": "Annasaheb Tanaji Pawar",
+            "grossAmt": "800000",
+            "incomeTax": "13559"
+        },
+        {
+            "voucher": "249",
+            "nameOfAgency": "Yashvardhan Mss Ltd Karad",
+            "grossAmt": "900000",
+            "incomeTax": "15254"
+        },
+        {
+            "voucher": "250",
+            "nameOfAgency": "Rajiya Construction, Satara",
+            "grossAmt": "130759",
+            "incomeTax": "2216"
+        },
+        {
+            "voucher": "251",
+            "nameOfAgency": "Omkar D.Bhandare",
+            "grossAmt": "400000",
+            "incomeTax": "6780"
+        },
+        {
+            "voucher": "252",
+            "nameOfAgency": "Balbhim MSS Ltd ,Madhwapurwadi",
+            "grossAmt": "923712",
+            "incomeTax": "15656"
+        },
+        {
+            "voucher": "253",
+            "nameOfAgency": "T.V.Joshi,Satara",
+            "grossAmt": "749162",
+            "incomeTax": "12698"
+        },
+        {
+            "voucher": "254",
+            "nameOfAgency": "Kiran P.Dashvant",
+            "grossAmt": "571420",
+            "incomeTax": "9685"
+        },
+        {
+            "voucher": "255",
+            "nameOfAgency": "Vithai Mauli Mss Ltd, Koynanagar",
+            "grossAmt": "714000",
+            "incomeTax": "12102"
+        },
+        {
+            "voucher": "256",
+            "nameOfAgency": "Nilesh Baburao Patil",
+            "grossAmt": "401000",
+            "incomeTax": "6797"
+        },
+        {
+            "voucher": "257",
+            "nameOfAgency": "Ganesh MSS Ltd Kusur",
+            "grossAmt": "380000",
+            "incomeTax": "6441"
+        },
+        {
+            "voucher": "258",
+            "nameOfAgency": "Ganesh M.Bhosale,Bavdhan",
+            "grossAmt": "600000",
+            "incomeTax": "10170"
+        },
+        {
+            "voucher": "259",
+            "nameOfAgency": "Kiran P.Dashvant",
+            "grossAmt": "1021001",
+            "incomeTax": "17305"
+        },
+        {
+            "voucher": "260",
+            "nameOfAgency": "Mohsin Shabbir Bhaldar",
+            "grossAmt": "377500",
+            "incomeTax": "6398"
+        },
+        {
+            "voucher": "261",
+            "nameOfAgency": "Vinit Sunil Babar",
+            "grossAmt": "476000",
+            "incomeTax": "8068"
+        },
+        {
+            "voucher": "262",
+            "nameOfAgency": "Somnath Shrimant Tale",
+            "grossAmt": "476000",
+            "incomeTax": "8068"
+        },
+        {
+            "voucher": "263",
+            "nameOfAgency": "Digvijay Bhausaheb Shinde",
+            "grossAmt": "332700",
+            "incomeTax": "5639"
+        },
+        {
+            "voucher": "264",
+            "nameOfAgency": "Digvijay Bhausaheb Shinde",
+            "grossAmt": "332700",
+            "incomeTax": "5639"
+        },
+        {
+            "voucher": "265",
+            "nameOfAgency": "Ashish Vilas Chavan",
+            "grossAmt": "713000",
+            "incomeTax": "12085"
+        },
+        {
+            "voucher": "266",
+            "nameOfAgency": "Sanjeevani Mss Ltd, Karad",
+            "grossAmt": "179593",
+            "incomeTax": "3044"
+        },
+        {
+            "voucher": "294",
+            "nameOfAgency": "Prasad Jalinder Kharat",
+            "grossAmt": "475000",
+            "incomeTax": "8051"
+        },
+        {
+            "voucher": "295",
+            "nameOfAgency": "Safe Water India, Pune",
+            "grossAmt": "12536735",
+            "incomeTax": "212487"
+        },
+        {
+            "voucher": "296",
+            "nameOfAgency": "Safe Water India, Pune",
+            "grossAmt": "12881834",
+            "incomeTax": "218336"
+        },
+        {
+            "voucher": "297",
+            "nameOfAgency": "V.T.Shelar",
+            "grossAmt": "33688",
+            "incomeTax": "571"
+        },
+        {
+            "voucher": "302",
+            "nameOfAgency": "Univatu India Ltd",
+            "grossAmt": "40141180",
+            "incomeTax": "680359"
+        }
+    ]
+}
